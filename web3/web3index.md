@@ -33,7 +33,7 @@
         <li><a href="#">Web2.0</a></li>
       </ul>
     </li>
-    <li><a href="#">Bitcoin</a></li>
+    <li><a href="./bitcoin.md">Bitcoin</a></li>
     <li><a href="#">Ethereum</a></li>
     <li><a href="#">DeFi</a></li>
     <li><a href="#">NFT</a></li>
