@@ -1,4 +1,4 @@
-# Markdown 学習メモ
+# Markdown
 
 > We're living the future so
 > the present is our past. 
