@@ -38,6 +38,8 @@
 
 ## DAO
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">理想的なDAOは、DAOとしてのすべての行動がブロックチェーン上で完結し、それぞれのメンバーが自分の利益を最優先して行動した時に、それがDAO全体にとってプラスになるような設計になっているDAO。👇</p>&mdash; Satoshi Nakajima @NounsDAO 🇺🇦 (@snakajima) <a href="https://twitter.com/snakajima/status/1538755530830647297?ref_src=twsrc%5Etfw">June 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 「エージェント問題」の解決策になりうる
 
 > スマートコントラクトを活用することにより、（どんな組織にとっても最も重要な）資金の使い道を、経営者を雇わずに、メンバーの投票によって決める点が従来型の組織と大きく異なります。お金の流れが透明化され、エージェント問題（雇われた経営者が株主の利益よりも自分の利益を優先した行動をしてしまう）が回避できるなど、良い面もありますが、長期的な戦略を実行しにくいなどの欠点もあります。
@@ -47,6 +49,10 @@
 > 経営陣の代わりにスマートコントラクトを使って組織を運営するリーダーシップの不在.. 長期的な戦略を立てたり、（他の人がまだ理解できない）画期的なことをするのが不得意
 
 > 個別のマーケティング案件への投資はメンバーの間の投票で比較的簡単に決められますが、継続性を持ったマーケティング活動だとか、収益を目指したサービス構築への開発投資などは、構造的に非常に難しくなっています
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">決して、リーダーがいないけど、メンバーたちが協力しながら自律的に動いて、運営して行くグループ、なんかじゃないので、勘違いしないように。👇</p>&mdash; Satoshi Nakajima @NounsDAO 🇺🇦 (@snakajima) <a href="https://twitter.com/snakajima/status/1538754250376814592?ref_src=twsrc%5Etfw">June 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">つまり、技術力とアイデアさえあれば、個々のエンジニアが、永続的な価値を世の中に対して提供出来るということ。これこそが本当の decentralized（非集権的な）世界。オープンソースの上を行く、オープンサービスの時代だ。👇</p>&mdash; Satoshi Nakajima @NounsDAO 🇺🇦 (@snakajima) <a href="https://twitter.com/snakajima/status/1536559730767765504?ref_src=twsrc%5Etfw">June 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### NounsDAO
 
