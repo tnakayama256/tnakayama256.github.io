@@ -4,14 +4,14 @@
 
 Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdownの使い方
+### Markdown
 
-- [Markdownについてのメモ](https://mapotofu9.github.io/markdown1)
+- [Markdown](https://mapotofu9.github.io/markdown1)
 
 
-### フロントエンド技術について
+### フロントエンド
 
-- [html,css,javascriptの学習](./frontend/frontend.md)
+- [html,css,javascript](./frontend/frontend.md)
 
 ### Jekyll Themes
 
