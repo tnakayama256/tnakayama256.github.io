@@ -1,17 +1,18 @@
 ## ようこそ!
 
-
-
 Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-- [Markdown](https://mapotofu9.github.io/markdown1)
-
+-   [Markdown](https://mapotofu9.github.io/markdown1)
 
 ### フロントエンド
 
-- [html,css,javascript](./frontend/frontend.md)
+-   [html,css,javascript](./frontend/frontend.md)
+
+### Web3
+
+-   [メルマガ](./web3/web3index.md)
 
 ### Jekyll Themes
 
@@ -19,10 +20,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### 参考リンク
 
-- [10分で理解するでの静的サイト(github pages)の作り方](https://guides.github.com/features/pages/) 
+-   [10 分で理解するでの静的サイト(github pages)の作り方](https://guides.github.com/features/pages/)
 
-- [github pages 公式ドキュメント](https://docs.github.com/categories/github-pages-basics/)
+-   [github pages 公式ドキュメント](https://docs.github.com/categories/github-pages-basics/)
 
-- [Jekyll](https://jekyllrb.com/)
+-   [Jekyll](https://jekyllrb.com/)
 
-- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+-   [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
