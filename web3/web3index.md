@@ -34,7 +34,7 @@
       </ul>
     </li>
     <li><a href="./bitcoin.md">Bitcoin</a></li>
-    <li><a href="#">Ethereum</a></li>
+    <li><a href="./ethereum.md">Ethereum</a></li>
     <li><a href="#">DeFi</a></li>
     <li><a href="#">NFT</a></li>
     <li><a href="#">DAO</a></li>
