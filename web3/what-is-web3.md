@@ -23,7 +23,7 @@
   <summary>目次</summary>
   <ol>
     <li>
-      <a href="./web3index.md">TLDR</a>
+      <a href="web3index">TLDR</a>
     </li>
     <li>
       <a href="#Web3とは">Web3とは</a>
@@ -33,15 +33,15 @@
         <li><a href="#">Web2.0</a></li>
       </ul>
     </li>
-    <li><a href="#">Bitcoin</a></li>
-    <li><a href="#">Ethereum</a></li>
-    <li><a href="#">DeFi</a></li>
-    <li><a href="#">NFT</a></li>
-    <li><a href="#">DAO</a></li>
-    <li><a href="#">ファンド(a16z)</a></li>
-    <li><a href="#">Web3 学習法</a></li>
-    <li><a href="#">感想</a></li>
-    <li><a href="#">参照</a></li>
+    <li><a href="bitcoin">Bitcoin</a></li>
+    <li><a href="ethereum">Ethereum</a></li>
+    <li><a href="defi">DeFi</a></li>
+    <li><a href="nft">NFT</a></li>
+    <li><a href="dao">DAO</a></li>
+    <li><a href="fund">ファンド(a16z)</a></li>
+    <li><a href="learn">Web3 学習法</a></li>
+    <li><a href="feedback">感想</a></li>
+    <li><a href="reference">参照</a></li>
   </ol>
 </details>
 
