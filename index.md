@@ -1,10 +1,8 @@
 ## ようこそ!
 
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
--   [Markdown](https://mapotofu9.github.io/markdown1)
+-   [Markdown](https://tnakayama256.github.io/markdown1)
 
 ### フロントエンド
 
@@ -12,11 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild 
 
 ### Web3
 
--   [メルマガ](./web3/web3index.md)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mapotofu9/mapotofu9.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-   [中島さんのメルマガ](./web3/web3index.md)
 
 ### 参考リンク
 

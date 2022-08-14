@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <!-- <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -10,7 +8,7 @@
 <h3 align="center">メルマガ "中学生にもわかる Web3"</h3>
 
   <p align="center">
-    中島聡さんのメルマガ"Life is Beautiful"で<br>
+    [中島聡さんのメルマガ"Life is Beautiful"](https://www.mag2.com/m/0001323030)で<br>
     Web3について学んだ。
     <br />
   </p>
@@ -51,14 +49,17 @@ Web3 とは,Satoshi Nakamoto によるブロックチェーンの発明（2008�
 
 -   Web1.0: サービス事業者が情報/コンテンツを発信するだけの一方通行
 
-    -   Tim Berners Lee, Robert Cailliau
+    -   [Tim Berners Lee](https://www.rsisinternational.org/IJRSI/Issue31/75-78.pdf)
 
 -   Web2.0: ユーザーが投稿するコンテンツ（User Generated Contents）により双方向. 人工漁場.
 
-    -   [Tim Oreilley(2005)](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html)
+    -   [Darcy DiNucci](https://en.wikipedia.org/wiki/Web_2.0#:~:text=The%20term%20%22Web%202.0%22%20was,of%20the%20Web%20to%20come.)
+    -   [Tim Oreilley, Dale Daugherty](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html)
 
 -   Web3: 特定の事業者に依存せず、自律的にサービスが運営される
-    -   Gavin Wood
+    -   [Gavin Wood](https://en.wikipedia.org/wiki/Web3#:~:text=The%20term%20%22Web3%22%20was%20coined%20by%20Polkadot%20founder%20and%20Ethereum,idea%20of%20Web3%20gained%20popularity.)
+
+別の話ですが[Web1.0,2.0,3.0,4.0](https://www.rsisinternational.org/IJRSI/Issue31/75-78.pdf)という考え方もあります.
 
 ### Web2.5
 

@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <!-- <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -10,7 +9,7 @@
 <h3 align="center">メルマガ "中学生にもわかる Web3"</h3>
 
   <p align="center">
-    中島聡さんのメルマガ"Life is Beautiful"で<br>
+    [中島聡さんのメルマガ"Life is Beautiful"](https://www.mag2.com/m/0001323030)で<br>
     Web3について学んだ。
     <br />
   </p>
