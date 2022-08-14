@@ -22,26 +22,16 @@
 <details>
   <summary>目次</summary>
   <ol>
-    <li>
-      <a href="web3index">TLDR</a>
-    </li>
-    <li>
-      <a href="what-is-web3">Web3とは</a>
-      <ul>
-        <li><a href="#">Web3</a></li>
-        <li><a href="#">Web2.5</a></li>
-        <li><a href="#">Web2.0</a></li>
-      </ul>
-    </li>
+    <li><a href="web3index">TLDR</a></li>
+    <li><a href="what-is-web3">Web3</a></li>
     <li><a href="bitcoin">Bitcoin</a></li>
     <li><a href="ethereum">Ethereum</a></li>
-    <li><a href="#">DeFi</a></li>
-    <li><a href="#">NFT</a></li>
-    <li><a href="#">DAO</a></li>
-    <li><a href="#">ファンド(a16z)</a></li>
-    <li><a href="#">Web3 学習法</a></li>
-    <li><a href="#">感想</a></li>
-    <li><a href="#">参照</a></li>
+    <li><a href="defi">DeFi</a></li>
+    <li><a href="nft">NFT</a></li>
+    <li><a href="dao">DAO</a></li>
+    <li><a href="fund">ファンド(a16z)</a></li>
+    <li><a href="learn">Web3 学習法</a></li>
+    <li><a href="reference">参照</a></li>
   </ol>
 </details>
 
@@ -73,7 +63,7 @@
 
 ---
 
-<p align="right"><a href="./ethereum.md">Ethereum ></a></p>
+<p align="right"><a href="ethereum">Ethereum ></a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

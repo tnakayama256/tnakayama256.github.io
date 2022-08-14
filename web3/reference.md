@@ -23,7 +23,7 @@
   <summary>目次</summary>
   <ol>
     <li><a href="web3index">TLDR</a></li>
-    <li><a href="what-is-web3">Web3とは</a></li>
+    <li><a href="what-is-web3">Web3</a></li>
     <li><a href="bitcoin">Bitcoin</a></li>
     <li><a href="ethereum">Ethereum</a></li>
     <li><a href="defi">DeFi</a></li>
@@ -34,34 +34,35 @@
     <li><a href="reference">参照</a></li>
   </ol>
 </details>
-
 ---
 
-## イーサリアム
+## 参照
 
--   イーサリアムは Solidity という言語で分散型ブロックチェーン上(厳密には EVM)で動くプログラム(スマートコントラクト)を開発可能にした.
+[Satoshi Nakmoto's original paper](https://bitcoin.org/bitcoin.pdf)
 
--   スマートコントラクトの発明により,DeFi,NFT,DAO などが可能になった.
+[soulbound token](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)
 
----
+[ethereum whitepaper](https://ethereum.org/en/whitepaper/)
 
-### solidity
+[uniswap repository](https://github.com/Uniswap)
 
-Gavin Wood という人が開発したプログラミング言語. contract の開発に使用する.
+[Axie Infinity whitepaper](https://whitepaper.axieinfinity.com/d-a-o)
 
----
+[最先端の分散型自律組織（DAO）「Nouns」の斬新さ。日本に DAO はできるか。](https://rtomura-taxacc.com/nouns-dao/)
 
-### gas fee(ガス代)
+[Nouns DAO とは](https://gaiax-blockchain.com/nouns-dao)
 
-効率の悪いプログラムや,意図的に無限に走りつつけるようなプログラムを排除するために,Ethereum の設計者たちが意図的に追加した仕組みでマイナーたちに「手数料」として支払う
+[Nouns DAO の凄さを解説](https://alis.to/kanerin/articles/K5x8wzmNVEkZ)
 
-> [Yuga Labs が Otherside を売りに出した時](https://decrypt.co/99156/yuga-labs-sees-561-million-in-otherside-) には,数万円のオーダーにまではね上がってしまいました.
+[自民党「NFT ホワイトペーパー　 Web3.0 時代を見据えたわが国の NFT 戦略」](https://tomurazeirishi.com/nft-white-paper/)
 
-「ガス代」がゼロになれば、無限に新たなスマートコントラクトを生み出し続けるスマートコントラクトをデプロイして、ブロックチェーンを破綻させることが可能になってしまう。
+[ステーブルコイン「テラ」の崩壊：創業者クォン氏の運命【コラム】](https://www.coindeskjapan.com/148712/)
 
----
+[Tech Experts Urge Congress to Fight Crypto Influence](https://gizmodo.com/crypto-stablecoin-terra-blockchain-web3-1849001601)
 
-<p align="right"><a href="defi">DeFi ></a></p>
+[Crypto Fund III andreesen horowitz](https://a16z.com/2021/06/24/crypto-fund-iii/)
+
+[a16z state of crypto report](https://a16zcrypto.com/state-of-crypto-report-a16z-2022/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

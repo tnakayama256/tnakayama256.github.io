@@ -23,7 +23,7 @@
   <summary>目次</summary>
   <ol>
     <li><a href="web3index">TLDR</a></li>
-    <li><a href="what-is-web3">Web3とは</a></li>
+    <li><a href="what-is-web3">Web3</a></li>
     <li><a href="bitcoin">Bitcoin</a></li>
     <li><a href="ethereum">Ethereum</a></li>
     <li><a href="defi">DeFi</a></li>
@@ -34,34 +34,23 @@
     <li><a href="reference">参照</a></li>
   </ol>
 </details>
-
 ---
 
-## イーサリアム
+## Web3 学習法
 
--   イーサリアムは Solidity という言語で分散型ブロックチェーン上(厳密には EVM)で動くプログラム(スマートコントラクト)を開発可能にした.
+Web3 を深く理解するためにはスマートコントラクトのプログラミングを学ぶとよい。順番は CryptoZombie をやり NousDAO のソースコードを読んで理解し、個人的な開発(作りたいものを作る)を始めていく。
 
--   スマートコントラクトの発明により,DeFi,NFT,DAO などが可能になった.
+1. cryptozombie
+2. NounsDAO ソースコード
+3. dApp 開発
 
----
+メルマガ作者の中島さんが
 
-### solidity
+> 一緒に開発する仲間が欲しい,何を作れば良いかアイデアが欲しいのであれば,私に DM を下さい.
 
-Gavin Wood という人が開発したプログラミング言語. contract の開発に使用する.
+と仰っていたので 1~3 が終わり次第 Twitter で DM します.
 
----
-
-### gas fee(ガス代)
-
-効率の悪いプログラムや,意図的に無限に走りつつけるようなプログラムを排除するために,Ethereum の設計者たちが意図的に追加した仕組みでマイナーたちに「手数料」として支払う
-
-> [Yuga Labs が Otherside を売りに出した時](https://decrypt.co/99156/yuga-labs-sees-561-million-in-otherside-) には,数万円のオーダーにまではね上がってしまいました.
-
-「ガス代」がゼロになれば、無限に新たなスマートコントラクトを生み出し続けるスマートコントラクトをデプロイして、ブロックチェーンを破綻させることが可能になってしまう。
-
----
-
-<p align="right"><a href="defi">DeFi ></a></p>
+<p align="right"><a href="reference">参照 ></a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

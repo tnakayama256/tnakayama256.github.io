@@ -22,17 +22,8 @@
 <details>
   <summary>目次</summary>
   <ol>
-    <li>
-      <a href="./web3index.md">TLDR</a>
-    </li>
-    <li>
-      <a href="./what-is-web3.md">Web3とは</a>
-      <ul>
-        <li><a href="#">Web3</a></li>
-        <li><a href="#">Web2.5</a></li>
-        <li><a href="#">Web2.0</a></li>
-      </ul>
-    </li>
+    <li><a href="web3index">TLDR</a></li>
+    <li><a href="what-is-web3">Web3とは</a></li>
     <li><a href="bitcoin">Bitcoin</a></li>
     <li><a href="ethereum">Ethereum</a></li>
     <li><a href="defi">DeFi</a></li>
@@ -40,8 +31,7 @@
     <li><a href="dao">DAO</a></li>
     <li><a href="fund">ファンド(a16z)</a></li>
     <li><a href="learn">Web3 学習法</a></li>
-    <li><a href="feedback">感想</a></li>
-    <li><a href="links">参照</a></li>
+    <li><a href="reference">参照</a></li>
   </ol>
 </details>
 
