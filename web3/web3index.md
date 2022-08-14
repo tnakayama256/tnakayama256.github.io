@@ -63,7 +63,7 @@ DAO はスマートコントラクトで記述される自律型の組織のこ�
 
 ---
 
-<p align="right"><a href="#readme-top">Web3とは ></a></p>
+<p align="right"><a href="./what-is-web3.md">Web3とは ></a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
