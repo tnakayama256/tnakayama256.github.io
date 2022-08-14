@@ -26,15 +26,15 @@
       <a href="#tldr">TLDR</a>
     </li>
     <li>
-      <a href="./what-is-web3.md">Web3とは</a>
+      <a href="what-is-web3.md">Web3とは</a>
       <ul>
         <li><a href="#">Web3</a></li>
         <li><a href="#">Web2.5</a></li>
         <li><a href="#">Web2.0</a></li>
       </ul>
     </li>
-    <li><a href="./bitcoin.md">Bitcoin</a></li>
-    <li><a href="./ethereum.md">Ethereum</a></li>
+    <li><a href="bitcoin.md">Bitcoin</a></li>
+    <li><a href="ethereum.md">Ethereum</a></li>
     <li><a href="#">DeFi</a></li>
     <li><a href="#">NFT</a></li>
     <li><a href="#">DAO</a></li>
