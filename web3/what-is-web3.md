@@ -8,7 +8,7 @@
 <h3 align="center">メルマガ "中学生にもわかる Web3"</h3>
 
   <p align="center">
-    [中島聡さんのメルマガ"Life is Beautiful"](https://www.mag2.com/m/0001323030)で<br>
+    <a href="https://www.mag2.com/m/0001323030">中島聡さんのメルマガ"Life is Beautiful"</a>で<br>
     Web3について学んだ。
     <br />
   </p>
@@ -99,6 +99,8 @@ Twitter - [@TaNakayama14](https://twitter.com/TaNakayama14)
 Github: [pages](https://github.com/tnakayama256/tnakayama256.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="web3index">web3 home</a>)</p>
+<p align="right">(<a href="../index">page home</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 

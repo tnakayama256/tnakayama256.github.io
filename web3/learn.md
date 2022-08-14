@@ -9,7 +9,7 @@
 <h3 align="center">メルマガ "中学生にもわかる Web3"</h3>
 
   <p align="center">
-    [中島聡さんのメルマガ"Life is Beautiful"](https://www.mag2.com/m/0001323030)で<br>
+    <a href="https://www.mag2.com/m/0001323030">中島聡さんのメルマガ"Life is Beautiful"</a>で<br>
     Web3について学んだ。
     <br />
   </p>
