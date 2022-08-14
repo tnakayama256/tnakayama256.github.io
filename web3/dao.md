@@ -52,7 +52,7 @@
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">決して、リーダーがいないけど、メンバーたちが協力しながら自律的に動いて、運営して行くグループ、なんかじゃないので、勘違いしないように。👇</p>&mdash; Satoshi Nakajima @NounsDAO 🇺🇦 (@snakajima) <a href="https://twitter.com/snakajima/status/1538754250376814592?ref_src=twsrc%5Etfw">June 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">つまり、技術力とアイデアさえあれば、個々のエンジニアが、永続的な価値を世の中に対して提供出来るということ。これこそが本当の decentralized（非集権的な）世界。オープンソースの上を行く、オープンサービスの時代だ。👇</p>&mdash; Satoshi Nakajima @NounsDAO 🇺🇦 (@snakajima) <a href="https://twitter.com/snakajima/status/1536559730767765504?ref_src=twsrc%5Etfw">June 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">つまり、技術力とアイデアさえあれば、個々のエンジニアが、永続的な価値を世の中に対して提供出来るということ。これこそが本当の decentralized（非集権的な）世界。オープンソースの上を行く、オープンサービスの時代だ。👇</p>&mdash; Satoshi Nakajima @NounsDAO 🇺🇦 (@snakajima) <a href="https://twitter.com/snakajima/status/1536559730767765504?ref_src=twsrc%5Etfw">June 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### NounsDAO
 

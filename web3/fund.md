@@ -39,12 +39,14 @@
 
 ### a16z 5 key takeaways
 
-    1 Web3 は "price-innovation cycle" を持つ
-    2 Web3 は,Web2 よりもクリエーターに優しい
-        - Apple や Google が 30％の手数料を取り,Meta (Facebook) に至っては100％の広告収入が Meta に入るのと比べて,Web3 の代表的な企業である OpenSea は,わずか 2.5%の手数料
-    3 Web3 は,既に現実の世界に影響を与えつつある
-    4 Ethereum はリーダーではあるけど,競合もいる
-    5 Web3 は始まったばかり
+1. Web3 は "price-innovation cycle" を持つ
+2. Web3 は,Web2 よりもクリエーターに優しい
+
+-   Apple や Google が 30％の手数料を取り,Meta (Facebook) に至っては 100％の広告収入が Meta に入るのと比べて,Web3 の代表的な企業である OpenSea は,わずか 2.5%の手数料
+
+3. Web3 は,既に現実の世界に影響を与えつつある
+4. Ethereum はリーダーではあるけど,競合もいる
+5. Web3 は始まったばかり
 
 ### a16z のビジネスモデル
 
