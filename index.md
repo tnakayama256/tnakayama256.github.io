@@ -2,7 +2,7 @@
 
 ### Markdown
 
--   [Markdown](https://tnakayama256.github.io/markdown1)
+-   [Markdown](markdown1)
 
 ### フロントエンド
 
@@ -10,7 +10,7 @@
 
 ### Web3
 
--   [中島さんのメルマガ](./web3/web3index.md)
+-   [Web3](./web3/web3index.md)
 
 ### 参考リンク
 
