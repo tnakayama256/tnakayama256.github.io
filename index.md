@@ -4,7 +4,7 @@
 
 -   [Markdown](./markdown1.md)
 
-### フロントエンド
+### Web2
 
 -   [html,css,javascript](./frontend/frontend.md)
 
