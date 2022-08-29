@@ -1,4 +1,4 @@
-## ようこそ!
+
 
 ### Markdown
 
@@ -12,7 +12,7 @@
 
 -   [Web3](./web3/web3index.md)
 
-### 参考リンク
+### リンク
 
 -   [10 分で理解するでの静的サイト(github pages)の作り方](https://guides.github.com/features/pages/)
 
