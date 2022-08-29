@@ -6,13 +6,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-<h3 align="center">メルマガ "中学生にもわかる Web3"</h3>
+<h3 align="center">"Web3入門"</h3>
 
-  <p align="center">
-    <a href="https://www.mag2.com/m/0001323030">中島聡さんのメルマガ"Life is Beautiful"</a>で<br>
-    Web3について学んだ。
-    <br />
-  </p>
 </div>
 
 ---
@@ -28,9 +23,9 @@
     <li><a href="defi">DeFi</a></li>
     <li><a href="nft">NFT</a></li>
     <li><a href="dao">DAO</a></li>
-    <li><a href="fund">ファンド(a16z)</a></li>
-    <li><a href="learn">Web3 学習法</a></li>
-    <li><a href="reference">参照</a></li>
+    <li><a href="fund">a16z</a></li>
+    <li><a href="learn">学習用</a></li>
+    <li><a href="reference">参考用リンク</a></li>
   </ol>
 </details>
 
@@ -38,7 +33,7 @@
 
 ## TLDR
 
-Web3 とはビットコインの発明以降に生まれた仮想通貨, DeFi, SmartContract, NFT, dApp などの現象と活動の総称。Bitcoin は分散型台帳(銀行や取引業者などの中間者に搾取されることなく金融取引を行うため使用される)が抱えていた二重支出問題の解決策。
+Web3 とはビットコイン発明以降に生まれた仮想通貨, DeFi, SmartContract, NFT, dApp などの現象と活動の総称。Bitcoin は分散型台帳(銀行や取引業者などの中間者に搾取されることなく金融取引を行うため使用される)が抱えていた二重支出問題の解決策。
 
 Web3 の比較対象として Web1.0(提供者がコンテンツを発信,ブログや単純な検索エンジンなど主に一方向通信)と Web2.0(利用者がコンテンツを発信,SNS や動画投稿サイトなど双方向通信) があり,Web3 は中央集権的な管理者がいないという点で 1.0 や 2.0 と異なっている。Web2.0 ではサービス事業者がユーザのデータを活用し運営するのに対し、Web3 では特定の事業者に依存せず、自律的にサービスが運営される。しかし実際は Web3 関連で知られているものの多くが分散型ブロックチェーンを利用しているが中央集権的な管理者がいる構造になっていてそれらを Web2.5 として区別することもある。
 
